@@ -10,6 +10,7 @@ I'm Uthum Imasha, a motivated and curious developer and aspiring Data Scientist 
 ---
 ## 🚀 Highlights
 * 🏆 Finalist at IntelliHack 4.0 - NextGen, the Machine Learning hackathon organized by the IEEE Computer Society of the University of Colombo School of Computing
+* 🏆 Finalist at IntelliHack 5.0 - NextGen, the Machine Learning hackathon organized by the IEEE Computer Society of the University of Colombo School of Computing
 * 💻 Completed a year-long travel platform project using custom PHP MVC architecture with MySQL and JavaScript
 * 🤖 Experienced in building ML models with TensorFlow, scikit-learn, and Python-based data pipelines
 
